@@ -36,7 +36,7 @@
     "json3": "3.3.2",
     "load-grunt-tasks": "3.4.1",
     "proxyquire": "1.7.10",
-    "serve-static": "^1.10.0"
+    "serve-static": "^1.10.1"
   },
   "scripts": {
     "test": "grunt test --stack"
