@@ -1,6 +1,6 @@
 # Modernizr [![Build Status](https://api.travis-ci.org/Modernizr/Modernizr.svg?branch=master)](https://travis-ci.org/Modernizr/Modernizr) [![Inline docs](https://inch-ci.org/github/Modernizr/Modernizr.svg?branch=master)](https://inch-ci.org/github/Modernizr/Modernizr)
 
-##### Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
+##### Modernizr是一个用来检测用户的浏览器对HTML5和CSS3的特征功能支持情况的一个JavaScript库。
 
 - [Website](https://modernizr.com)
 - [Documentation](https://modernizr.com/docs/)
