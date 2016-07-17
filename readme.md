@@ -10,7 +10,7 @@ Modernizr tests which native CSS3 and HTML5 features are available in the curren
 This project adheres to the [Open Code of Conduct][code-of-conduct]. By participating, you are expected to honor this code.
 [code-of-conduct]: http://todogroup.org/opencodeofconduct/#Modernizr/conduct@modernizr.com
 
-## New Asynchronous Event Listeners
+## 新的异步事件监听器
 
 Often times people want to know when an asynchronous test is done so they can allow their application to react to it.
 In the past, you've had to rely on watching properties or `<html>` classes. Only events on **asynchronous** tests are
@@ -34,16 +34,16 @@ We guarantee that we'll only invoke your function once (per time that you call `
 a method for exposing the `trigger` functionality. Instead, if you'd like to have control over async tests, use the
 `src/addTest` feature, and any test that you set will automatically expose and trigger the `on` functionality.
 
-## Getting Started
+## 开始入门
 
 - Clone or download the repository
 - Install project dependencies with `npm install`
 
-## Test suite
+## 测试套件
 
 Run the [test suite](https://modernizr.github.io/Modernizr/test/)
 
-## Building Modernizr v3
+## 构造 Modernizr v3
 
 ### To generate everything in 'config-all.json':
 
@@ -104,6 +104,6 @@ The first parameter takes a JSON object of options and feature-detects to includ
 
 The second parameter is a function invoked on task completion.
 
-## License
+##  授权协议
 
 [MIT License](https://opensource.org/licenses/MIT)
